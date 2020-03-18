@@ -1,0 +1,5 @@
+avorion/vars/*
+!avorion/vars/.gitkeep
+galaxies/*
+!galaxies/.gitkeep
+inventory
