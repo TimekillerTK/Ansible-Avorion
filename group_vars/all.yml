@@ -1,4 +1,0 @@
----
-firewall_j2: avorion_firewalld.j2
-
-# Export here is necessary to avoid some stderr lines in some situations

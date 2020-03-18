@@ -1,9 +1,0 @@
----
-# Main playbook to run
-- name: Prepare dedicated server for Avorion
-  gather_facts: yes
-  hosts: avorion
-  roles:
-    - avorion
-...
-
