@@ -1,0 +1,5 @@
+---
+# vars file for provision
+user: timekillertk
+pubkeys: "pubkeys/*.pub"
+ssh_port: 2200/tcp
